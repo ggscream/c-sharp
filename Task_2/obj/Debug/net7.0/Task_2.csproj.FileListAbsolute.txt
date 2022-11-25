@@ -1,0 +1,15 @@
+/Volumes/One Touch/AI/3_C-sharp/Homework_1/Task_2/bin/Debug/net7.0/Task_2
+/Volumes/One Touch/AI/3_C-sharp/Homework_1/Task_2/bin/Debug/net7.0/Task_2.deps.json
+/Volumes/One Touch/AI/3_C-sharp/Homework_1/Task_2/bin/Debug/net7.0/Task_2.runtimeconfig.json
+/Volumes/One Touch/AI/3_C-sharp/Homework_1/Task_2/bin/Debug/net7.0/Task_2.dll
+/Volumes/One Touch/AI/3_C-sharp/Homework_1/Task_2/bin/Debug/net7.0/Task_2.pdb
+/Volumes/One Touch/AI/3_C-sharp/Homework_1/Task_2/obj/Debug/net7.0/Task_2.csproj.AssemblyReference.cache
+/Volumes/One Touch/AI/3_C-sharp/Homework_1/Task_2/obj/Debug/net7.0/Task_2.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/One Touch/AI/3_C-sharp/Homework_1/Task_2/obj/Debug/net7.0/Task_2.AssemblyInfoInputs.cache
+/Volumes/One Touch/AI/3_C-sharp/Homework_1/Task_2/obj/Debug/net7.0/Task_2.AssemblyInfo.cs
+/Volumes/One Touch/AI/3_C-sharp/Homework_1/Task_2/obj/Debug/net7.0/Task_2.csproj.CoreCompileInputs.cache
+/Volumes/One Touch/AI/3_C-sharp/Homework_1/Task_2/obj/Debug/net7.0/Task_2.dll
+/Volumes/One Touch/AI/3_C-sharp/Homework_1/Task_2/obj/Debug/net7.0/refint/Task_2.dll
+/Volumes/One Touch/AI/3_C-sharp/Homework_1/Task_2/obj/Debug/net7.0/Task_2.pdb
+/Volumes/One Touch/AI/3_C-sharp/Homework_1/Task_2/obj/Debug/net7.0/Task_2.genruntimeconfig.cache
+/Volumes/One Touch/AI/3_C-sharp/Homework_1/Task_2/obj/Debug/net7.0/ref/Task_2.dll
